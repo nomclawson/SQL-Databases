@@ -10,8 +10,8 @@ C = con.cursor()
 
 # ID set is used to ensure all recipes have unique ID
 IDS = {-1}
-APP_ID = "1678a31f"
-API_KEY = "52cd572798e16b88de23bc7b77cc5ae3"
+APP_ID = "YOUR APP ID"
+API_KEY = "YOUR API KEY"
 URL = f'https://api.edamam.com/search?/app_id=${APP_ID}&app_key=${API_KEY}'
 
 
